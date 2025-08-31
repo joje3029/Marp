@@ -21,7 +21,9 @@ paginate: true
 
 <div class="center-title">
   <h1>Marp (Markdown Presentation Ecosystem)</h1>
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAWAAAACPCAMAAADz2vGdAAAAn1BMVEX///8Afctbr98AAAAAW5MAeMmHxOhTq97B4PLa7fZRn9hWrd34+Phfs+PB2OX09PS8vLwhcqYAVY/W1tY9PT18fHwoKCja2toEXpWCgoKUlJTP5/Xr6+vl5eUHesIgiM9cXV3Nzc00NDQODg63t7dKSkpXV1cAgcxmZmaqqqomJibp9PpOnNcAdchxcnKbm5sdHh4yktFZWVkmjNG73PB7nSy8AAAECklEQVR4nO3ce3eaSBiAcXSSbWhwpeuFBaHrlapt1Xb7/T9bQW6jzCiIsaf0+f0VAqbxyXvIDD0nhgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIATn28+iSpe3l84OfnrYd9HW710vuhPml0CNzT59FU/wWbvHYGbmXx6ftYGnvReCdxM1LejDWz2XrsEbiTuqw0c9yVwI2Yn6qsLbHajvgRuYnLsqwmc9CVwA2lfdWCz+65L4EayvsrA6fwS+HbH32+6wNn8EvhmRV9F4Hx+CXwrqW85cDG/BL7R5L+ibymwNL/lwJbqy/Xf6vv8XZ30PQ8sz2858GBUrhmsKXzitO9ZYLMn9y0HFrvzIfaHc+Vc/7HO+p4GPrk/qAIvxOg0Z7ASQwJLzvueBD4+f7gS+LSwPxQElpX6yoFLfVW3iJ1cOBgKb07gQrmvFLjcVxHYtaZF4Wh+PWtM4JyibxFY0VcReGT088L+XHhGn8A5Vd888Nn6QR84LxzPryEHtmae6+4dw1iO/OgwGNmG4exdL17GObtBct4btPbnoeybBVbNryZwXHiX9ZUCz1biaN0ficHxYtffxZ8IooOlsIPvyfmp88A3/UDy/rgUWN1XE/g4w07Stwi8jBYYsyCwQ7FaC+d48XQoQtuJp9mwhTsW6+j8bC0Os8e968fR9E0CK+8P+sCGFYpF0jcPPFgs0m77aEqTwELss1fa0cEy+XAj5sHbvtdfQdf3GFgzv/rARj9M++aBp8LOrnLzwG7+SluKvc9e2yLavnFgbV99YKO/yT5IAg/EOr/KX6SBx8Wk2qLYUVvDQ9seX+j7RoHP98eVAufSwBuxKT43TQMXzaPA0tS6x1+CLWJ2tH07z980998GgUdpYOliu7iDGIYnH7SAqZ/fTufjh562762Bs1VEcQuOAu+LA1e0ah1xue/TfQLbUk1rqwq8Ks6Hwr/3m/yFrvS9U2BrJfL9w0aoAhdTa8f7lNZQ79+yvv/eK3C0z1ilYzkT6sDbdE3hjNt0h7ja916Boxvr3PYtK9iLxVAVOBSHZRCd3xzk2/Xv7nrfxoG3aWAr2sFtw5UQ45mrCmwvD+IQhgex/bP61grsjN3zf8JahdkOwnG/j+frfd9wD3Fg5yAtfe1ooxx40/l86rVon1ylb63ARlDegvl+6aAflC62kycRfpuWD8bk/wp96wW+mZ096mmRSvNL4JtV7EvgG1Xt+7DA7Xr8cKXv09OjAy9bNsGV5/dRgf1lu9YP1fs+KHC71OlL4Ppq9SVwbfX6EriuC///pupL4JouP18v9yVwPVf6EriuSefrs9bHf1Q+dF+1CHxu8uNF72818wL+Zg8AAAAAAAAAAAAAAAAAAAAAAADwRn4CpuZdpS//RT8AAAAASUVORK5CYII=" width="1000px" />
+  <h2>미적 감각이 떨어지는 개발자를 위해</h2>
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAWAAAACPCAMAAADz2vGdAAAAn1BMVEX///8Afctbr98AAAAAW5MAeMmHxOhTq97B4PLa7fZRn9hWrd34+Phfs+PB2OX09PS8vLwhcqYAVY/W1tY9PT18fHwoKCja2toEXpWCgoKUlJTP5/Xr6+vl5eUHesIgiM9cXV3Nzc00NDQODg63t7dKSkpXV1cAgcxmZmaqqqomJibp9PpOnNcAdchxcnKbm5sdHh4yktFZWVkmjNG73PB7nSy8AAAECklEQVR4nO3ce3eaSBiAcXSSbWhwpeuFBaHrlapt1Xb7/T9bQW6jzCiIsaf0+f0VAqbxyXvIDD0nhgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIATn28+iSpe3l84OfnrYd9HW710vuhPml0CNzT59FU/wWbvHYGbmXx6ftYGnvReCdxM1LejDWz2XrsEbiTuqw0c9yVwI2Yn6qsLbHajvgRuYnLsqwmc9CVwA2lfdWCz+65L4EayvsrA6fwS+HbH32+6wNn8EvhmRV9F4Hx+CXwrqW85cDG/BL7R5L+ibymwNL/lwJbqy/Xf6vv8XZ30PQ8sz2858GBUrhmsKXzitO9ZYLMn9y0HFrvzIfaHc+Vc/7HO+p4GPrk/qAIvxOg0Z7ASQwJLzvueBD4+f7gS+LSwPxQElpX6yoFLfVW3iJ1cOBgKb07gQrmvFLjcVxHYtaZF4Wh+PWtM4JyibxFY0VcReGT088L+XHhGn8A5Vd888Nn6QR84LxzPryEHtmae6+4dw1iO/OgwGNmG4exdL17GObtBct4btPbnoeybBVbNryZwXHiX9ZUCz1biaN0ficHxYtffxZ8IooOlsIPvyfmp88A3/UDy/rgUWN1XE/g4w07Stwi8jBYYsyCwQ7FaC+d48XQoQtuJp9mwhTsW6+j8bC0Os8e968fR9E0CK+8P+sCGFYpF0jcPPFgs0m77aEqTwELss1fa0cEy+XAj5sHbvtdfQdf3GFgzv/rARj9M++aBp8LOrnLzwG7+SluKvc9e2yLavnFgbV99YKO/yT5IAg/EOr/KX6SBx8Wk2qLYUVvDQ9seX+j7RoHP98eVAufSwBuxKT43TQMXzaPA0tS6x1+CLWJ2tH07z980998GgUdpYOliu7iDGIYnH7SAqZ/fTufjh562762Bs1VEcQuOAu+LA1e0ah1xue/TfQLbUk1rqwq8Ks6Hwr/3m/yFrvS9U2BrJfL9w0aoAhdTa8f7lNZQ79+yvv/eK3C0z1ilYzkT6sDbdE3hjNt0h7ja916Boxvr3PYtK9iLxVAVOBSHZRCd3xzk2/Xv7nrfxoG3aWAr2sFtw5UQ45mrCmwvD+IQhgex/bP61grsjN3zf8JahdkOwnG/j+frfd9wD3Fg5yAtfe1ooxx40/l86rVon1ylb63ARlDegvl+6aAflC62kycRfpuWD8bk/wp96wW+mZ096mmRSvNL4JtV7EvgG1Xt+7DA7Xr8cKXv09OjAy9bNsGV5/dRgf1lu9YP1fs+KHC71OlL4Ppq9SVwbfX6EriuC///pupL4JouP18v9yVwPVf6EriuSefrs9bHf1Q+dF+1CHxu8uNF72818wL+Zg8AAAAAAAAAAAAAAAAAAAAAAADwRn4CpuZdpS//RT8AAAAASUVORK5CYII=" width="800px" />
+  <h3>이 ppt는 Marp를 이용해서 만들었습니다.</h3>
 </div>
 
 ---
@@ -59,12 +61,9 @@ paginate: true// 슬라이드 하단에 페이지 번호 표시
 # VS Code 프로젝트 설정
 
 ### VS Code 설정을 하는 이유
-- Front-matter만으로는 VS Code가 커스텀 테마를 찾지 못함
-- 설정 없이는 기본 테마(default, gaia, uncover)만 사용 가능
-- 내보내기 할 때마다 형식을 매번 선택해야 함
-- 설정이 없으면 Marp-slide.css 같은 커스텀 테마가 적용되지 않아 에러 발생
-- VS Code가 테마 파일의 위치를 모르기 때문에 명시적으로 알려줘야 함
-
+- 설정 없이는 기본 테마(default, gaia, uncover)만 사용 가능 : 커스텀 테마를 적용하려면 해야함
+- Front-matter만으로는 VS Code가 테마 파일의 위치를 모르기 때문에 명시적으로 알려줘야함
+- 내보내기 할 때마다 형식을 매번 선택해야 함 : 세팅해 놓으면 명령어 파레트에서 export 명령어만 실행하면 됨 
 
 ### .vscode 폴더를 이용하는 이유
 - 다른 프로젝트에 영향을 주지 않음 (프로젝트별 독립성)

@@ -2,6 +2,5 @@
   "markdown.marp.themes": [
     "Marp-slide.css"
   ],
-  "markdown.marp.exportType": "pptx",
-  "markdown.marp.pptx.editable": true
+  "markdown.marp.exportType": "html"
 }
