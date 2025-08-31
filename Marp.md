@@ -136,7 +136,7 @@ paginate: true
 
 --- -->
 
-# VS Code에서 미리보기
+<!-- # VS Code에서 미리보기
 
 <div class="two-columns">
 
@@ -156,7 +156,25 @@ paginate: true
 
 </div>
 
+</div> -->
+
+# VS Code에서 미리보기
+
+
+<div>
+
+1. 단축키 사용: 
+   - **Window**: `Ctrl+K V` (측면에 미리보기 열기)
+   - **Mac**: `Cmd+K V` (측면에 미리보기 열기)
+
 </div>
+
+<div class="img-middle">
+
+![height:350px](./image/Marp_미리보기.png)
+
+</div>
+
 
 ---
 
