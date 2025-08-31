@@ -138,11 +138,25 @@ paginate: true
 
 # VS Code에서 미리보기
 
-1. 단축키 사용: 
-   - Window : `Ctrl+K V` (측면에 미리보기 열기)
-   - Mac에서는 `Cmd+K V` (측면에 미리보기 열기)
+<div class="two-columns">
 
-<img src="./image/Marp_미리보기.png" alt="Marp for VS Code 확장 이미지" height="50%" />
+<div class="left-column">
+
+1. 단축키 사용: 
+   - **Window**: `Ctrl+K V` (측면에 미리보기 열기)
+   - **Mac**: `Cmd+K V` (측면에 미리보기 열기)
+
+2. 또는 명령 팔레트에서 "Marp: Toggle Preview" 선택
+
+</div>
+
+<div class="right-column">
+
+![height:400px](./image/Marp_미리보기.png)
+
+</div>
+
+</div>
 
 ---
 
